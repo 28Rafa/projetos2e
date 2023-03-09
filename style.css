@@ -1,0 +1,48 @@
+.retangulo1{
+
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 243px;
+  height: 2048px;
+  left: calc(50% - 243px/2 - 544.5px);
+  top: calc(50% - 2048px/2);
+
+  background: #004B63;
+
+}
+
+.circulo1{
+position: absolute;
+width: 386px;
+height: 382.25px;
+left: 46.87px;
+top: 374.71px;
+
+background: #131722;
+transform: rotate(-72.29deg);
+
+border-radius: 190px
+}
+
+.retangulo2{
+  position: absolute;
+  width: 1318px;
+  height: 238px;
+  left: 111px;
+  top: 115px;
+
+  background: #495663;
+  border-radius: 192.5px;
+}
+img{
+
+
+   position: absolute;
+ width: 347.9px;
+ height: 355.65px;
+ left: 119.83px;
+ top: 64.51px;
+transform: rotate(2.33deg);
+border-radius: 190px
+}
