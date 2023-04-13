@@ -1,3 +1,8 @@
+body{
+  background-color: rgb(138, 241, 255);
+  
+  }
+
   header{
   position: absolute;
 width: 564px;
@@ -40,7 +45,7 @@ border-radius: 18px;
  left: 38px;
  top: 94px;
 
- border: 9px solid 	#6495ED;
+ border: 9px solid 	#5a8ff1;
  border-radius: 56px;
  color: #6495ED
  }
@@ -78,7 +83,7 @@ top: 106px;
 font-family: 'Lexend';
 font-style: normal;
 font-weight: 500;
-font-size: 48px;
+font-size: 70px;
 line-height: 60px;
 display: flex;
 align-items: center;
@@ -129,15 +134,16 @@ h2{
   position: absolute;
   width: 455px;
   height: 74px;
-  left: 377px;
+  left: 670px;
   top: 32px;
 
   font-family: 'Lexend';
   font-style: normal;
   font-weight: 400;
-  font-size: 32px;
+  font-size: 35px;
   line-height: 40px;
   text-align: center;
+
 
   color: 	#000080;
 }
@@ -157,7 +163,51 @@ h2{
   text-align: center;
 
   color: #6495ED;
-
-
-
 }
+.retangulo3{
+  position: absolute;
+ width: 520px;
+ height: 320px;
+ left: 189px;
+ top: 268px;
+ background: 		#0a1a38;
+ 
+ border: 1px solid #000000;
+border-radius: 40px;
+}
+.grafico1{
+position:absolute;
+width: 500px;
+top:300px;
+left: 200px;
+height: 300px;
+border-radius: 35px;
+}
+
+.retangulo4{
+
+    position: absolute;
+    width: 520px;
+    height: 320px;
+    top: 268px;
+    left: 989px;
+    background:#0a1a38;
+    border-radius: 35px;
+    
+  
+}
+.grafico2 {
+  position: absolute;
+  width: 500px;
+  height: 300px;
+  top: 300px;
+  left: 1000px;
+  border-radius: 35px;
+  
+}
+
+
+
+
+
+
